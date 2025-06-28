@@ -1,0 +1,10 @@
+{
+	warps: {
+		ama: { dim: "minecraft:overworld", x: 33, y: 16, z: 22108, time: 1750769254511L, xRot: 30.299974f, yRot: -18.402344f }
+		town: { dim: "minecraft:overworld", x: 296, y: 66, z: 20915, time: 1751003178432L, xRot: 49.950127f, yRot: -2.372528f }
+		flawless: { dim: "minecraft:overworld", x: -321, y: 56, z: 22092, time: 1750682458760L, xRot: 60.899975f, yRot: 34.046265f }
+		fort: { dim: "minecraft:the_nether", x: -83, y: 70, z: 2958, time: 1750762119149L, xRot: 22.950031f, yRot: 94.04991f }
+	}
+	mute_timeouts: { }
+	kits: { }
+}
